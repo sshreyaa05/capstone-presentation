@@ -1,5 +1,39 @@
-# capstone-presentation
-This project helps us to predict diabetes leveraging different machine learning algorithms that can predict whether an individual is likely to have diabetes or not based on their lifestyle related attributes and historical data.
+![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/3e657dd6-b348-4e30-b41e-affc1631670d)# capstone-presentation
+This project helps us to predict diabetes leveraging different machine learning algorithms that can predict whether an individual is likely to have diabetes or 
+not based on their lifestyle related attributes and historical data.
+## Problem Statement :
+The dataset used in this project is originally from NIDDK(National Institute of Diabetes and Digestive and Kidney Diseases).Predicting diabetes in patients based on diagnostic measurements and thereby, evaluating the predictive performance of different machine learning algorithms in predicting the outcomes and identifying trends for diabetes management and early personalized treatment , based on the following records of the patients :
+Pregnancies (Number of times a female has conceived)
+Glucose (Blood Sugar Level)-mMol/L
+Blood Pressure (Diastolic Blood Pressure)-mm Hg
+Skin Thickness (Fold Thickness Of Triceps Skin)-mm
+Insulin (2 hours Serum Insulin Intake)-mL
+Body Mass Index (Body Mass / Body Weight)- kg
+Diabetes Pedigree Function (Hereditary Carrier Cases)/(Genetic Influence)
+Age (Age Of Females)- years
+So, these are all the independent variables, on the basis of which, I would utilize the different machine learning  algorithms to predict the target variable , 
+thereby, to solve this disease prediction problem under health care domain.
+## WHY AM I SOLVING THE PROBLEM?
+For 3 foremost reasons I am performing this problem of diabetes prediction.
+EARLY IDENTIFICATION OF THE DISEASE- acts as a boon to save a large count of lives before they actually develop this disease.
+PLANNING THE PERSONALIZED TREATMENTS- Our predictive models actually helps the healthcare professionals to plan a proper personalized treatments
+for the patients who are suffering or at the likelihood of developing the disease.
+ALLOCATION OF RESOURCES-   Looking at the likelihood of developing this disease in a person, the healthcare professionals tend to take some measures of 
+allocation like , educational campaign, preventive measures, in a way that a patient gets benefitted by that.
+## CHALLENGES FACED BY THE HEALTH CARE DOMAIN TO PREDICT THE DISEASE OF DIABETES:
+Data Availability
+Data Quality And Standardization
+Data Privacy And Security
+Feature Selection And Dimensionality
+Imbalanced Data
+Model Interpretability
+## HOW MY MODEL IS GOING TO HELP:
+Accurate Predictions
+Early Prevention
+Improved Patient Outcomes
+Research And Insights
+Continuous Learning And Improvement
+Personalized approach
 ## 1. Total count and their percentages of diabetic and non-diabetic cases.
 ![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/02547f02-fc59-4947-a063-cf8dacd9bc68)
 ![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/b44fe3e2-2291-48cc-b9f9-ef001fe18d29)
@@ -58,37 +92,15 @@ This project helps us to predict diabetes leveraging different machine learning 
 ## . Age
 ## . Diabetes pedigree function
 ## . Pregnancies
-## Here, presenting my capstone powerpoint presentation.
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/002065fe-bc6c-4d13-b63d-2c9bba4439d2)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/74dcf760-debf-4d53-926f-44deab66d741)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/c81e37fb-566f-42ca-b497-52f23fbeb8f9)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/6fbcc0a2-08b5-45b3-a84c-0aeaa94a69cf)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/d19d3950-8273-4443-8737-c7ec60a69df2)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/beab71da-6ee3-4516-9209-45c5cea1a86c)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/c5e27fde-8cfd-4149-8056-64462e18c360)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/da31861f-54e7-4910-960d-01ef23fdffb7)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/0c2445fc-3687-4b92-af9c-f85a7e345d8f)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/3c09b498-102f-4dd8-b860-0efb78e05915)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/063f80d5-4860-4b94-81e4-0767c2c93724)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/e21a69cb-46f4-4a68-926b-04ccf9ef4e36)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/c2cbb6b6-fe71-46a9-8e49-e4284ff01f44)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/c2461813-607b-48a7-9a65-d20bbc622dba)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/50608917-4117-4d9f-840c-18b6164eb973)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/c66cc451-6a18-41ab-a9bc-fa0e26446d64)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/35fdb192-eaa8-4ef9-b305-29f6a395bb3c)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/e9d3571d-803f-4463-93da-2e2ba3b72dbb)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/acfb76da-e41b-4c03-bed7-839ebcfa357b)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/42e45a87-28f9-4330-9b8f-18d89e2910e1)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/edc629f7-6e27-4ec9-8887-75e6a207e993)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/3c231668-db8d-49a1-b099-971a1a80a041)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/45557e83-b081-47d3-a145-88d08aae569c)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/db0ffa46-371b-4c04-bb55-d5aeef95ab96)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/a3667547-748e-433b-a857-929ef74b3e2b)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/03946ba9-ace9-49de-ad40-9a43e0dd9000)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/efe3ad02-da7f-4000-967a-1016e310eb81)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/db20976c-79a1-40d4-9523-113b9377d4bf)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/c8c76af7-bdc4-4568-bb88-84616211c481)
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/8a61c44d-1bb8-4f7e-abcf-3f468f715bd2)
+## HOW THIS MODEL CAN BE LEVERAGED IN OTHER DOMAINS OR CAN BE SCALED WITH SOME MORE TWEAKS ?
+This model can be leveraged in other domains such as :
+FINANCE : Random Forests can be applied in finance for tasks like fraud detection, investment prediction, by training the model on the basis of the historical financial data. So, that it can assess credit worthiness, detect anomalous transactions.
+RETAIL AND E-COMMERCE : Random Forests can be utilized here to predict customer behavior , recommendation of the products on the basis of customer attributes, their purchase history and hence, makes  easier for the business  to take the data driven decisions.
+## In this way I have solved the diabetes prediction problem.
+
+
+
+
 
 
 
