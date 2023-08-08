@@ -1,4 +1,4 @@
-![image](https://github.com/sshreyaa05/capstone-presentation/assets/132264752/3e657dd6-b348-4e30-b41e-affc1631670d)# capstone-presentation
+# capstone-presentation
 This project helps us to predict diabetes leveraging different machine learning algorithms that can predict whether an individual is likely to have diabetes or 
 not based on their lifestyle related attributes and historical data.
 ## Problem Statement :
@@ -96,6 +96,10 @@ Personalized approach
 This model can be leveraged in other domains such as :
 FINANCE : Random Forests can be applied in finance for tasks like fraud detection, investment prediction, by training the model on the basis of the historical financial data. So, that it can assess credit worthiness, detect anomalous transactions.
 RETAIL AND E-COMMERCE : Random Forests can be utilized here to predict customer behavior , recommendation of the products on the basis of customer attributes, their purchase history and hence, makes  easier for the business  to take the data driven decisions.
+Now, it can be scaled with some more tweaks such as:
+Feature engineering and domain specific knowledge
+Additional features makes the task more easier for the model to predict the target variable.
+Model ensembling can help in improving the overall prediction by leveraging the strength of different algorithms.
 ## In this way I have solved the diabetes prediction problem.
 
 
