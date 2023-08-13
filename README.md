@@ -1,4 +1,4 @@
-# capstone-presentation
+# capstone-presentation for diabetes prediction leveraging machine learning.
 This project helps us to predict diabetes leveraging different machine learning algorithms that can predict whether an individual is likely to have diabetes or 
 not based on their lifestyle related attributes and historical data.
 ## Problem Statement :
